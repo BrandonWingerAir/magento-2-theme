@@ -299,5 +299,14 @@ return [
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
         'Yotpo_Yotpo' => 1
+    ],
+    'system' => [
+        'default' => [
+            'design' => [
+                'theme' => [
+                    'theme_id' => 'frontend/CustomTheme/custom'
+                ]
+            ]
+        ]
     ]
 ];

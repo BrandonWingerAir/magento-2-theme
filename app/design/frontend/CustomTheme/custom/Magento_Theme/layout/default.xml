@@ -4,8 +4,8 @@
         <referenceBlock name="logo">
             <arguments>
                 <argument name="logo_file" xsi:type="string">images/icon-painting.svg</argument>
-                <argument name="logo_height" xsi:type="string">115</argument>
-                <argument name="logo_width" xsi:type="string">115</argument>
+                <argument name="logo_height" xsi:type="string">100</argument>
+                <argument name="logo_width" xsi:type="string">100</argument>
             </arguments>
         </referenceBlock>
     </body>

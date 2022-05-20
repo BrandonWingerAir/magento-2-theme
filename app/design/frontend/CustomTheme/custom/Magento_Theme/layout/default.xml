@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_file" xsi:type="string">images/icon-painting.svg</argument>
+                <argument name="logo_height" xsi:type="string">115</argument>
+                <argument name="logo_width" xsi:type="string">115</argument>
+            </arguments>
+        </referenceBlock>
+    </body>
+</theme>
